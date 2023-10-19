@@ -1,10 +1,10 @@
-### Hi, my name is Elton
+### Hey!
 #### I am a Web Developer and Designer
 ![I am a Web Developer and Designer](https://github.com/EltonWhybrow/EltonWhybrow/blob/main/gh-profile-banner.png?raw=true)
 
 ## About
 
-Im a Web Developer with varied development/design background spanning nearly 2 decades. Some of my previous [shenanigans](https://portfolio.widesign.co.uk) and looking after some of these [Wide Sign](https://widesign.co.uk). 
+Im a Web Stuffer with a varied development/design background spanning nearly 2 decades. Some of my previous [shenanigans](https://portfolio.widesign.co.uk) and looking after some of these [Wide Sign](https://widesign.co.uk). 
 
 ## Skills
 
