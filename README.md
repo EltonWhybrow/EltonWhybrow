@@ -4,7 +4,7 @@
 
 ## About
 
-Im a Web Developer with varied development/design background spanning nearly 2 decades. You can find out more about  me at me site [Wide Sign](https://widesign.co.uk) 
+Im a Web Developer with varied development/design background spanning nearly 2 decades. Some of my previous [work](https://portfolio.widesign.co.uk) and looking after some of these [Wide Sign](https://widesign.co.uk) 
 
 ## Skills
 
